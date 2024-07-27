@@ -102,7 +102,8 @@ body{
     height: 40px;
     font-size: 10px;
     padding-left: 10px;
-    background-color: #595d61;
+    /* background-color: #595d61; */
+    background-color: #05ffd12e;
   }
   .up{
     color: #18B265;
@@ -183,7 +184,8 @@ body{
   .genetics-left div{
     width: 40px;
     height: 38px;
-    background-color: #595d61;
+    /* background-color: #595d61; */
+    background-color: #05ffd12e;
   }
   .genetics-right{
     width: 245px;
@@ -253,7 +255,8 @@ body{
   .conditions-left div{
     width: 40px;
     height: 38px;
-    background-color: #595d61;
+    /* background-color: #595d61; */
+    background-color: #05ffd12e;
   }
   .conditions-right{
     width: 245px;
@@ -297,8 +300,7 @@ body{
   .card::after {
     content: '';
     position: absolute;
-    background: #07182E;
-    ;
+    background: linear-gradient(to bottom , #1b1b20, #32323e, #1d1d24 );
     inset: 5px;
     border-radius: 15px;
   }  
