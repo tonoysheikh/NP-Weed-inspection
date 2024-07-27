@@ -80,7 +80,7 @@ body{
   }
   .left{
     width: 40px;
-    height: 8vh;
+    height: 40px;
     border: 0.5px solid rgb(234, 219, 219);
     border-radius: 5px;
     margin-right: 10px;
@@ -94,12 +94,12 @@ body{
   
   .left img{
     width: 40px;
-    height: 8vh;
+    height: 40px;
     
   }
   .right{
     width: 250px;
-    height: 8vh;
+    height: 40px;
     font-size: 10px;
     padding-left: 10px;
     background-color: #595d61;
@@ -136,7 +136,7 @@ body{
   }
   .genetics-otp div{
     width: 35px;
-    height: 7vh;
+    height: 35px;
     background-color: #393f46;
     margin-right: 8px;
     justify-content: center;
@@ -176,18 +176,18 @@ body{
   }
   .genetics-left{
     width: 40px;
-    height: 7vh;
+    height: 38px;
     /* border: 1px solid white; */
     margin-right: 10px;
   }
   .genetics-left div{
     width: 40px;
-    height: 7vh;
-    background-color: #323b46;
+    height: 38px;
+    background-color: #595d61;
   }
   .genetics-right{
     width: 245px;
-    height: 8vh;
+    height: 37px;
     font-size: 10px;
     padding-left: 10px;
     display: flex;
@@ -246,18 +246,18 @@ body{
   }
   .conditions-left{
     width: 40px;
-    height: 7vh;
+    height: 38px;
     /* border: 1px solid white; */
     margin-right: 10px;
   }
   .conditions-left div{
     width: 40px;
-    height: 7vh;
+    height: 38px;
     background-color: #595d61;
   }
   .conditions-right{
     width: 245px;
-    height: 8vh;
+    height: 38px;
     font-size: 10px;
     padding-left: 10px;
     display: flex;
