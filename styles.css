@@ -305,7 +305,7 @@ body{
     border-radius: 15px;
   }  
   .card:hover:before {
-    background-image: linear-gradient(180deg, #51ff00, #51ff00);
+    background-image: linear-gradient(180deg, #18B265, #18B265);
     animation: rotBGimg 3.5s linear infinite;
   }
   
