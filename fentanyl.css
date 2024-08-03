@@ -146,6 +146,10 @@ background: linear-gradient(90deg, rgba(25,24,37,1) 0%, rgba(224,223,230,0.37298
     display: flex;
     justify-content: space-between;
 }
+.box-value{
+    padding-top: 6px;
+    padding-right: 5px;
+}
 .box-value p{
     display: inline;
 }
